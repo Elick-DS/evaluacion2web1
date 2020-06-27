@@ -1,0 +1,126 @@
+@font-face
+{
+    font-family: JAI;
+    src: url(JAi.TTF);
+}
+#marg
+{
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0) ;
+    border-radius: 28px;
+    height: 904px;
+    
+}
+#marg2
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#uno
+{
+    margin-left: 20px;
+    float: left;
+    margin: auto;
+    width: 400px;
+    height: 900px;
+    background-color: rgb(52, 53, 63);
+    border-radius: 25px;
+}    
+#titulo
+{
+    margin-top: 5px;
+    padding-left: 30px;
+    margin-bottom: 35px;
+    padding-right: 30px;
+    font-family: JAI;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#Subtitulo
+{
+    padding-left: 8px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: JAI;
+}
+#nomus
+{
+    color: aliceblue;
+}
+#nomu
+{
+    background-color:#007bff;
+    color: aliceblue;
+    border-color: black;
+    width: 370px;
+}
+#resultados
+{
+    float: left;
+    padding-left: 20px;
+    margin-top: 12px;
+}
+#rayita
+{
+    margin-top: 55px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+    border: 1,5px solid rgb(33, 34, 39);
+    border-radius: 100px;
+    width: 350px;
+    height: 1px;
+    background-color: rgb(33, 34, 39);
+}
+#bust
+{
+    background-color:#0d941f;
+    color: aliceblue;
+    border-color: black;
+    width: 370px;
+}
+
+#bust1
+{
+    background-color:#dc3545;
+    color: aliceblue;
+    border-color: black;
+    width: 370px;
+}
+/*.cone
+{   
+    color: #dc3545;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 500px;
+    margin-right: 150px;
+    border-radius: 500px;
+    margin-top: 185px;
+    height: 500px;
+}*/
+.cone1
+{   
+    color: #2ec769;;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 150px;
+    border-radius: 500px;
+    margin-top: 200px;
+    width: 500px;
+}
+.cone2
+{   
+    color: #dc3545 ;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 150px;
+    border-radius: 500px;
+    margin-top: 200px;
+    width: 500px;
+}
